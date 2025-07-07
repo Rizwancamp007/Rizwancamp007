@@ -1,12 +1,76 @@
-# 💫 About Me:
-I'm Rizwan Khan currently pursuing BS Computer Science degree.<br>With a strong foundation in front-end web development , I'm now expanding my skills to to become a full-stack web developer.<br>I have experience working on freelancer, Upwork , people per hour and writer-bay as well. <br>I have learned C & C++ ,now seeking to learn Python.
+<h1 align="center">Hi 👋, I'm Rizwan Khan</h1>
+<h3 align="center">Computer Science Student at GCU Lahore</h3>
+<h3 align="center">Aspiring Developer | Junior Cyber Analyst | C++ & Java Developer</h3>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science at **Government College University, Lahore**
+- 💻 Passionate about **Full Stack Development** and **Cybersecurity**
+- 🧠 Strong command over **C++**, **Java**, **HTML/CSS**, and **MS Office Suite**
+- 🛡️ Completed foundational to intermediate-level **Cybersecurity courses**
+- 🧩 Working as a **Freelancer** in **Social Media Marketing** and as a **Junior Cyber Analyst**
+- 🚀 Exploring the fields of **Cybersecurity** and **Machine Learning** for future specialization
+- 📫 Reach me at: `rizwankhan.07@outlook.com`
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Programming & Development
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+#### 🌐 Web & UI Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+#### 🔐 Cybersecurity Tools
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp--Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004370?style=for-the-badge&logo=nmap&logoColor=white)
+
+#### 📊 Productivity & Office
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+#### 📢 Freelancing & SMM
+![Meta Business Suite](https://img.shields.io/badge/Meta%20Business-1877F2?style=for-the-badge&logo=meta)
+![Buffer](https://img.shields.io/badge/Buffer-168EEA?style=for-the-badge&logo=buffer&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Grammarly](https://img.shields.io/badge/Grammarly-15C39A?style=for-the-badge&logo=grammarly)
+---
+
+### 🚀 Projects
+
+- 🔐 **Basic Vulnerability Scanner (Academic Project)**  
+  A CLI-based scanner that detects open ports and basic vulnerabilities.
+
+- 💼 **Portfolio Website**  
+  Personal website showcasing projects, skills, and resume. Built with HTML5, CSS3, and JavaScript.
+
+- 🛒 **Mini Online Bookstore**  
+  A front-end web app with an interactive UI, product categories, and a working cart using HTML/CSS/JS.
+
+- 📊 **SMM Campaign Performance Tracker**  
+  Developed a simple MS Excel + PowerPoint system for small businesses to track engagement and campaign reach.
+
+- 🧪 **Cybersecurity Labs (Self-Practice)**  
+  Executed hands-on tasks using Kali Linux and Burp Suite as part of practical cyber training.
+
+---
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+### 🌐 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/rizwankhan)  
+- 📬 Email: rizwankhan.07@outlook.com  
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧠 *“Success belongs to those who are willing to learn, adapt, and grow consistently.”*
